@@ -1,0 +1,15 @@
+// @mixin flexCenter($direction) {
+//     height: 100vh;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     flex-direction: $direction
+// }
+header {
+    height: 20vh;
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
